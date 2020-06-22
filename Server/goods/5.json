@@ -1,0 +1,7 @@
+[
+    {"product": "Sneakers"},
+    {"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5h7xGwTCvRh99alfeiqzXkKr7aq1kMiIBXSA-s0g29GT3LiGFj7bLWjOEqQVBXhn8fMGiSIoO&usqp=CAc"},
+    {"price": "100$"},
+    {"color": "white"},
+    {"details": ["90% skin", "10% gum rubber"] }
+]

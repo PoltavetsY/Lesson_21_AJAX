@@ -1,0 +1,7 @@
+[
+    {"product": "Socks"},
+    {"img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqb5u2S2VhBMLRLZdCeCBFJplQosRb2JcTZpB3V92qbXawg4N4&usqp=CAU"},
+    {"price": "15$"},
+    {"color": "violet"},
+    {"details": ["80% cotton", "20% polyester", "Gender-neutral"] }
+]

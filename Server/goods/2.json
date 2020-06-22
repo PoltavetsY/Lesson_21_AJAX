@@ -1,0 +1,7 @@
+[
+    {"product": "T-shirt"},
+    {"img": "https://cdn.pixabay.com/photo/2018/11/13/19/09/football-3813715_960_720.png"},
+    {"price": "50$"},
+    {"color": "white"},
+    {"details": ["90% cotton", "10% polyester"] }
+]
